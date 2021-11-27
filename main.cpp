@@ -4,10 +4,8 @@
  */
 
 /*
-    8.) Write a program to test an integer value to determine if its odd or even. 
-    As always, make sure your output is clear and complete. 
-    In other words, don't just output yes or no. Your output should stand alone, like 
-    The value of 4 is an even number. Hint: See the remainder (modulo) operator in 3.4
+    8.) Write a program to test an integer value to determine if its odd or even. As always, make sure your output is clear and complete. 
+    In other words, don't just output yes or no. Your output should stand alone, like The value of 4 is an even number. Hint: See the remainder (modulo) operator in 3.4
 */
 
 #include <iostream>
